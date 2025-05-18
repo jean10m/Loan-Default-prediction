@@ -67,6 +67,3 @@ This model comparison supports credit teams in balancing risk exposure, profitab
 - Experiment with ensemble methods like Random Forest and XGBoost
 - Integrate model into a Streamlit app or Power BI dashboard
 
----
-
-📂 See full code and analysis in `Loan_Default_Prediction.ipynb`
